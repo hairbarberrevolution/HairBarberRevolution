@@ -1,0 +1,12 @@
+[
+  { "nome": "Taglio capelli uomo", "prezzo": "€18,00" },
+  { "nome": "Taglio + Barba", "prezzo": "€28,00" },
+  { "nome": "Barba (rasatura classica)", "prezzo": "€15,00" },
+  { "nome": "Barba con rasoio", "prezzo": "€20,00" },
+  { "nome": "Taglio bambino", "prezzo": "€12,00" },
+  { "nome": "Trattamento cuoio capelluto", "prezzo": "€25,00" },
+  { "nome": "Shampoo + Taglio", "prezzo": "€22,00" },
+  { "nome": "Rifinire barba", "prezzo": "€10,00" },
+  { "nome": "Colore capelli uomo", "prezzo": "€35,00" },
+  { "nome": "Trattamento idratante", "prezzo": "€20,00" }
+]

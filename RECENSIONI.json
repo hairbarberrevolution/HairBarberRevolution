@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Laura B.",
+    "stelle": 5,
+    "testo": "Veruska è semplicemente fantastica! Ho fatto il balayage e il risultato è stato incredibile. Ambiente accogliente e personale super professionale. Tornerò sicuramente!",
+    "data": "2025-05-10",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Marco T.",
+    "stelle": 5,
+    "testo": "Max è un maestro con le forbici. Taglio preciso, barba perfetta. Non cambio parrucchiere per niente al mondo. Consiglio vivamente!",
+    "data": "2025-04-22",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Alessia M.",
+    "stelle": 5,
+    "testo": "Ho fatto la colorazione con Veruska e sono rimasta senza parole. Ascolta esattamente quello che vuoi e lo trasforma in realtà. Bravissima!",
+    "data": "2025-04-05",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Davide C.",
+    "stelle": 4,
+    "testo": "Ottimo salone, Max è molto bravo e preciso. Ambiente pulito e moderno. L'unico neo è che a volte c'è un po' di attesa, ma ne vale la pena.",
+    "data": "2025-03-18",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Francesca R.",
+    "stelle": 5,
+    "testo": "Gaia mi ha fatto un taglio stupendo! È entrata nel team di recente ma si vede che ha talento. Tutto il team è gentile e professionale.",
+    "data": "2025-03-02",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Roberto F.",
+    "stelle": 5,
+    "testo": "Da quando ho scoperto Hair&Barber Revolution non vado da nessun'altra parte. Max capisce subito quello che vuoi e il risultato è sempre perfetto.",
+    "data": "2025-02-14",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Silvia G.",
+    "stelle": 4,
+    "testo": "Bravissima Veruska! Ha sistemato un disastro che mi aveva fatto un altro parrucchiere. Adesso i miei capelli sono splendidi. Grazie!",
+    "data": "2025-01-28",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Andrea N.",
+    "stelle": 5,
+    "testo": "Salone molto professionale, ambiente elegante e personale cordiale. Ho fatto taglio e barba con Max, risultato impeccabile. Prezzi onesti per la qualità offerta.",
+    "data": "2025-01-10",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Chiara V.",
+    "stelle": 5,
+    "testo": "Finalmente ho trovato il mio salone di fiducia! Veruska e tutto il team sono meravigliosi. Il trattamento cheratina che ho fatto ha trasformato i miei capelli.",
+    "data": "2024-12-20",
+    "fonte": "Google"
+  },
+  {
+    "nome": "Luca P.",
+    "stelle": 4,
+    "testo": "Ottimo posto, sia per uomo che per donna. Max fa un lavoro eccellente. Ci porto anche mio figlio per il taglio bambino ed è sempre un'esperienza positiva.",
+    "data": "2024-12-05",
+    "fonte": "Google"
+  }
+]
